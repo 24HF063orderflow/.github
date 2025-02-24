@@ -47,45 +47,49 @@
 
 
 ### 화면 구성(요약)
-|첫화면|
+|시작화면|
 |:---:|
-|<img src="https://github.com/ICT-EcoFlow/image/blob/main/%EC%8B%9C%EC%9E%91.png?raw=true" width="100%"/>|
+|<img src="https://github.com/24HF063orderflow/Image/blob/main/Main/%EC%8B%9C%EC%9E%91%ED%99%94%EB%A9%B4.png?raw=true" width="100%"/>|
 
-|회원가입|
+|시작화면2|
 |:---:|
-|<img src="https://github.com/ICT-EcoFlow/image/blob/main/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85.png?raw=true" width="100%"/>|
+|<img src="https://github.com/24HF063orderflow/Image/blob/main/Main/%EC%8B%9C%EC%9E%91%ED%99%94%EB%A9%B4(2).png?raw=true" width="100%"/>|
 
-|로그인|
+|가맹점 등록|
 |:---:|
-|<img src="https://github.com/ICT-EcoFlow/image/blob/main/%EB%A1%9C%EA%B7%B8%EC%9D%B8.png?raw=true" width="100%"/>|
+|<img src="https://github.com/24HF063orderflow/Image/blob/main/Main/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85.jpg?raw=true" width="100%"/>|
 
-|홈화면|
+|테이블연동|
 |:---:|
-|<img src="https://github.com/ICT-EcoFlow/image/blob/main/%ED%99%88%ED%99%94%EB%A9%B43.png?raw=true" width="100%"/>|
+|<img src="https://github.com/24HF063orderflow/Image/blob/main/Main/%ED%85%8C%EC%9D%B4%EB%B8%94%EC%97%B0%EB%8F%992.png?raw=true" width="100%"/>|
 
-|AIChatBot|
+|메인화면|
 |:---:|
-|<img src="https://github.com/ICT-EcoFlow/image/blob/main/ai%20chat.png?raw=true" width="100%"/>|
+|<img src="https://github.com/24HF063orderflow/Image/blob/main/Main/%EB%A9%94%EC%9D%B8%ED%99%94%EB%A9%B4.png?raw=true" width="100%"/>|
 
-|마이페이|
+|장바구니|
 |:---:|
-|<img src="https://github.com/ICT-EcoFlow/image/blob/main/%EA%B0%9C%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80.png?raw=true" width="100%"/>|
+|<img src="https://github.com/24HF063orderflow/Image/blob/main/Main/%EC%9E%A5%EB%B0%94%EA%B5%AC%EB%8B%88.png?raw=true" width="100%"/>|
 
-|사업자 등록번호 입력|
+|옵션주문|
 |:---:|
-|<img src="https://github.com/ICT-EcoFlow/image/blob/main/%EC%82%AC%EC%97%85%EC%9E%90%EB%93%B1%EB%A1%9D%EB%B2%88%ED%98%B8%20%EC%9D%B8%EC%A6%9D.png?raw=true" width="100%"/>|
+|<img src="https://github.com/24HF063orderflow/Image/blob/main/Main/%EC%98%B5%EC%85%98%EC%A3%BC%EB%AC%B8.png?raw=true" width="100%"/>|
 
-|개인충전기 등록|
+|주문내역|
 |:---:|
-|<img src="https://github.com/ICT-EcoFlow/image/blob/main/%EA%B0%9C%EC%9D%B8%EC%B6%A9%EC%A0%84%EA%B8%B0%20%EB%93%B1%EB%A1%9D.png?raw=true" width="100%"/>|
+|<img src="https://github.com/24HF063orderflow/Image/blob/main/Main/%EC%A3%BC%EB%AC%B8.png?raw=true" width="100%"/>|
 
-|개인충전기 관리|
+|결제|
 |:---:|
-|<img src="https://github.com/ICT-EcoFlow/image/blob/main/%EA%B0%9C%EC%9D%B8%EC%B6%A9%EC%A0%84%EA%B8%B0%20%EA%B4%80%EB%A6%AC.png?raw=true" width="100%"/>|
+|<img src="https://github.com/24HF063orderflow/Image/blob/main/Main/%EC%84%A0%EB%B6%88%EA%B2%B0%EC%A0%9C.png?raw=true" width="100%"/>|
 
-||
+|고객의 소리|
 |:---:|
-|<img src="https://github.com/ICT-EcoFlow/image/blob/main/%EB%A7%B5.png?raw=true" width="100%"/>|
+|<img src="https://github.com/24HF063orderflow/Image/blob/main/Main/%EA%B3%A0%EA%B0%9D%EC%9D%98%EC%86%8C%EB%A6%AC.png?raw=true" width="100%"/>|
+
+|노래신청|
+|:---:|
+|<img src="https://github.com/24HF063orderflow/Image/blob/main/Main/%EB%85%B8%EB%9E%98%EC%8B%A0%EC%B2%AD.png?raw=true" width="100%"/>|
 
 <br />
 
