@@ -131,4 +131,4 @@
 |Backend/Frontend|Frontend|Backend|Backend|
 |:---:|:---:|:---:|:---:|
 | ![](https://avatars.githubusercontent.com/u/39736916?v=4)| ![](https://avatars.githubusercontent.com/u/60644352?v=4)| ![](https://avatars.githubusercontent.com/u/86972598?v=4)| ![](https://avatars.githubusercontent.com/u/73270553?v=4)
-|[이동국(App)](https://github.com/leedongguk)|[고성인(App/Web](https://github.com/rhtjddls123)|[심보영](https://github.com/qhdudedi)|[한민서](https://github.com/1Min-seo)
+|[이동국(App)](https://github.com/leedongguk)|[고성인(App/Web)](https://github.com/rhtjddls123)|[심보영](https://github.com/qhdudedi)|[한민서](https://github.com/1Min-seo)
