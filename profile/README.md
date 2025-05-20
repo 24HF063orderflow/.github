@@ -12,7 +12,7 @@
 </div> 
 
 ## 📝 소개
-전기차 충전소 종합 플랫폼 IOS/Android/Web version
+소상공인을 위한 테이블오더 IOS/Android/Web version
 
 기능
 - 가맹점 등록/관리
