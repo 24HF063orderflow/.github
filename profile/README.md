@@ -15,7 +15,7 @@
 <a href="https://youtu.be/33Fr0mrp0qk" target="_blank">
   <img src="https://github.com/24HF063orderflow/Image/raw/main/Main/%EC%9E%A5%EB%B0%94%EA%B5%AC%EB%8B%88.png?raw=true" width="640" alt="RCG 유튜브 데모 영상">
 </a>
-<p>📺 RCG 프로젝트 시연 영상 보러가기</p>
+<p>📺 프로젝트 시연 영상 보러가기</p>
 
 </div> 
 
