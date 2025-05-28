@@ -6,8 +6,16 @@
 
 ### OrderFlow(한이음 프로젝트)✅
 
+
+
 [<img src="https://img.shields.io/badge/-readme.md-important?style=flat&logo=google-chrome&logoColor=white" />]() [<img src="https://img.shields.io/badge/-tech blog-blue?style=flat&logo=google-chrome&logoColor=white" />]() [<img src="https://img.shields.io/badge/release-v0.0.0-yellow?style=flat&logo=google-chrome&logoColor=white" />]() 
 <br/> [<img src="https://img.shields.io/badge/프로젝트 기간-2024.03.01~2024.10.01-green?style=flat&logo=&logoColor=white" />]()
+
+
+<a href="https://youtu.be/33Fr0mrp0qk" target="_blank">
+  <img src="https://github.com/24HF063orderflow/Image/raw/main/Main/%EC%9E%A5%EB%B0%94%EA%B5%AC%EB%8B%88.png?raw=true" width="640" alt="RCG 유튜브 데모 영상">
+</a>
+<p>📺 RCG 프로젝트 시연 영상 보러가기</p>
 
 </div> 
 
